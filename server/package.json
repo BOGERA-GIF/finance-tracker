@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Finance tracker",
+  "main": "server.js",
+  "scripts": {
+     "start" : "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "finance-tracker"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "bogerahenry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
